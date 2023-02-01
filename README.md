@@ -8,12 +8,12 @@ Hangman is a classic word game in which the player has to guess the secret word 
 
 ## Rules of the the game
 
-Guess one letter at a time to reveal the secret word. If a letter occurs more then once in the secret word, it will be revealed.
-Each incorrect guess adds another part to the hangman. You only get 6 incorrect guesses.
-If the player has 6 incorrect guesses, he will be "hanged". A "You lost" message will appear on the screen, and the secret word will be revealed.
-If the player guesses the secret word, a "Congratulations, You Won" message will appear.
-In each case (win or lose), the player can replay the same game, or start a new one.
-The player can restart, or start a new game during an already started game.
+- Guess one letter at a time to reveal the secret word. If a letter occurs more then once in the secret word, it will be revealed.
+- Each incorrect guess adds another part to the hangman. You only get 6 incorrect guesses.
+- If the player has 6 incorrect guesses, he will be "hanged". A "You lost" message will appear on the screen, and the secret word will be revealed.
+- If the player guesses the secret word, a "Congratulations, You Won" message will appear.
+- In each case (win or lose), the player can replay the same game, or start a new one.
+- The player can restart, or start a new game during an already started game.
 
 ## Available Scripts
 
