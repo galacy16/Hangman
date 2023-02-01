@@ -1,0 +1,12 @@
+/* CSS for the HangedMan component */
+.man {
+    fill: transparent;
+    stroke: black;
+
+    stroke-width: 5px;
+    stroke-linecap: round;
+}
+
+.hide {
+    display: none;
+}

@@ -1,0 +1,23 @@
+/* CSS for the Header component */
+.title {
+    font-size: 60px;
+    text-transform: uppercase;
+    color: #a4c2aa;
+    font-family: "Rouge Script", cursive;
+    font-weight: normal;
+    line-height: 48px;
+    margin: 0 0 50px;
+    text-align: center;
+    text-shadow: 2px 2px #082b34;
+}
+
+.header {
+    text-align: center;
+    font-family: "Rouge Script", cursive;
+}
+
+.lives-span {
+    color: red;
+    font-size: xx-large;
+    font-weight: bolder;
+}

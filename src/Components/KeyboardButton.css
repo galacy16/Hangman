@@ -1,0 +1,23 @@
+/* CSS for the KeyboardButton component */
+.keyboard-button {
+    background-color: rgb(145, 252, 6);
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 30px;
+    width: 40px;
+    box-shadow: 2px 2px #030303;
+}
+
+.keyboard-button:hover {
+    background-color: rgb(233, 7, 7);
+    color: rgb(145, 252, 6);
+    cursor: pointer;
+}
+
+/* useless */
+.keyboard-button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5px 1px 0.5px 1px;
+}
